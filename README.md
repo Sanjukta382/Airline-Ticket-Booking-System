@@ -6,7 +6,7 @@ An one stop web page for searching flights, book flights and get flight booking 
 
 
 Tech Stacks Used:
-*Frontend: HTML5, CSS3, JavaScript
-*Backend Database: MySQL
-*Frontend-Backend Connection: PHP
+Frontend: HTML5, CSS3, JavaScript; 
+Backend Database: MySQL; 
+Frontend-Backend Connection: PHP; 
 
